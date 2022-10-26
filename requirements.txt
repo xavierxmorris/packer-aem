@@ -2,3 +2,4 @@ ansible==2.9.2
 awscli==1.16.304
 boto3==1.10.41
 pylint==1.9.5
+rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
